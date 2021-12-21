@@ -1,0 +1,27 @@
+{
+    "movies_name": "My Life as a Zucchini",
+    "url": "https://www.rottentomatoes.com/m/my_life_as_a_zucchini",
+    "Rating": "PG-13",
+    "Gener": [
+        "Animation,",
+        "Comedy,",
+        "Drama"
+    ],
+    "language": [
+        "(France)"
+    ],
+    "director": [
+        "ClaudeBarras"
+    ],
+    "Producer": [
+        "Marc",
+        "Bonny,",
+        "Armelle",
+        "Glorennec,",
+        "Pauline",
+        "Gygax,",
+        "Max",
+        "Karli"
+    ],
+    "Runtime": 66
+}
